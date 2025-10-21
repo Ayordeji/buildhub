@@ -6,6 +6,8 @@ import Home from "./pages/Home"; // Home page
 import Connections from "./pages/Connections"; // Connections page
 import Profile from "./pages/Profile"; // Profile page
 
+
+
 export default function App() {
   return (
     // Define all routes
@@ -21,3 +23,5 @@ export default function App() {
     </Routes>
   );
 }
+
+
